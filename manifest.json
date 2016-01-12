@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "test",
-  "short_name": "test",
-  "description": "",
-  "version": "0.0.1",
+  "name": "MotherApp Code review fast click",
+  "short_name": "MACRFastClick",
+  "description": "ONE CLICK to open all unreviewed codes",
+  "version": "1.0",
   "minimum_chrome_version": "38",
   "permissions": ["tabs", "<all_urls>"],
   "browser_action": {"default_popup": "index.html", "default_icon": "assets/icon_128.png"},
